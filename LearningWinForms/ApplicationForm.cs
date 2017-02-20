@@ -96,6 +96,7 @@ namespace LearningWinForms
 
         private void buttonSubmit_Click(object sender, EventArgs e)
         {
+            // some random comment
             if (checkBoxAgreement.Checked == false)
             {
                 MessageBox.Show("Please indicate that you agree to the Terms");
