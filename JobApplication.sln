@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearningWinForms", "LearningWinForms\LearningWinForms.csproj", "{6961DA4D-1D20-4776-B59D-39B9F0A0BC9B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JobApplication", "LearningWinForms\JobApplication.csproj", "{6961DA4D-1D20-4776-B59D-39B9F0A0BC9B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
